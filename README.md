@@ -31,7 +31,9 @@ Prediction markets are powerful tools for aggregating collective intelligence an
 ## 🚀 Deployed Smart Contract Link
 
 Prediction Market Contract:  
-👉 https://stellar.expert/explorer/public/contract/your_contract_id_here
+👉 [https://stellar.expert/explorer/public/contract/your_contract_id_here](https://stellar.expert/explorer/testnet/contract/CB3EN4VN2RTSTSQPSE42IHUIOUG5EWK3ESKI4WDFEAEZWT4SBU3EYOHK)
+
+<img width="1919" height="905" alt="Screenshot 2026-03-19 143905" src=  "https://github.com/user-attachments/assets/1fd22c44-d43a-4be2-b786-35d1b4e65e56"/>
 
 > Replace `your_contract_id_here` with your deployed contract ID.
 
