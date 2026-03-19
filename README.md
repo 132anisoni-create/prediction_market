@@ -35,7 +35,7 @@ Prediction Market Contract:
 
 <img width="1919" height="905" alt="Screenshot 2026-03-19 143905" src=  "https://github.com/user-attachments/assets/1fd22c44-d43a-4be2-b786-35d1b4e65e56"/>
 
-> Replace `your_contract_id_here` with your deployed contract ID.
+>
 
 ---
 
